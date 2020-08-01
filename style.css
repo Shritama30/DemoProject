@@ -9,3 +9,74 @@ font-family: 'Josefin Sans', sans-serif;}
   width: 100%;
   height: 250px!important;
 }
+
+.avatar{
+  width:100px;
+  text-align:center;
+}
+
+#main-wrapper{
+  width: 500px;
+  margin: 0 auto;
+  padding: 5px;
+  background: white;
+  border-radius: 10px;
+  border: 2px solid #BDBDBD;
+
+}
+
+.form-container{
+  background: #E0E0E0;
+  padding:30px;
+  border-radius: 10px;
+  border-shadow: 0px 0px 10px 0px;
+}
+
+#login-btn{
+  background-color: #558B2F;
+  padding: 5px;
+  color: white;
+  width: 100%;
+  font-weight: bold;
+  font-size: 18px;
+
+}
+
+#register-btn{
+  background-color: #1976D2;
+  padding: 5px;
+  color: white;
+  width: 100%;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 18px;
+
+}
+
+#signup-btn{
+  background-color: #00796B;
+  padding: 5px;
+  color: white;
+  width: 100%;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#back-btn{
+  background-color: #FB8C00;
+  padding: 5px;
+  color: white;
+  width: 30%;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#logout-btn{
+  background-color: #FB8C00;
+  padding: 5px;
+  color: white;
+  width: 100%;
+  font-weight: bold;
+  font-size: 18px;
+
+}
