@@ -26,7 +26,11 @@
     </h3>
     <?php echo '<img class="avatar" src="'.$_SESSION["imglink"].'">'; ?>
   </center>
-<br>
+
+   <div style="margin-top:20px;" class="text-center">
+     <a href="updateprofile.php">Update Profile</a>
+
+   </div>
 
   <form action="homepage.php" method="post" class="form-container">
     <div class="form-group">
